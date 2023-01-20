@@ -1,1 +1,3 @@
 i love programming
+i've already learnt java, sql,html
+now i am learning git.....
